@@ -1,0 +1,7 @@
+src/pacote2
+bin/pacote2
+bin/randomTest
+bin/listas
+*.settings
+*.classpath
+*.project
